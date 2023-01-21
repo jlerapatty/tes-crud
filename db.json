@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Maxdesanta",
+      "email": "maxdesanta@gmail.com",
+      "phone": "0000-22-0000",
+      "id": 8
+    },
+    {
+      "name": "joaquin",
+      "email": "joaquingaming@gmail.com",
+      "phone": "62821329247194",
+      "id": 9
+    },
+    {
+      "name": "rivaldo",
+      "email": "rivaldobanteng@gmail.com",
+      "phone": "909090909",
+      "id": 10
+    }
+  ]
+}
